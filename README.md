@@ -212,7 +212,8 @@ For more information or questions, you can contact the owner:
 
 © 2026 XtraFine (XF). All rights reserved.
 
-Owned by Roaring Moon  
-Developed by Aryan  
-Published under XtraFine standards
+XtraFine — Publisher  
+Roaring Moon — Repository Owner  
+Aryan — Developer & Maintainer
+
 
