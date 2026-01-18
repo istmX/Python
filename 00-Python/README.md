@@ -57,6 +57,75 @@ Learning this early avoids many errors later.
 
 ---
 
+---
+
+## 📐 Indentation in Python (Very Important)
+
+Python uses **indentation (spaces)** to understand code structure.
+
+Indentation tells Python:
+- which lines belong together
+- which code runs inside a condition or loop
+
+Unlike some other languages, Python does **not** use `{ }` for blocks.  
+It uses **indentation only**.
+
+---
+
+## ✅ Correct Indentation Example
+
+age = 15
+
+if age < 18:
+print("You are under 18")
+print("Access limited")
+
+This will cause an **IndentationError** because Python expects indented code
+after the `if` statement.
+
+---
+
+## 🧠 Why Indentation Matters
+
+Python reads code **line by line** and uses indentation to decide:
+- what runs conditionally
+- what runs always
+- where a block starts and ends
+
+Even one missing space can break a program.
+
+---
+
+## 📌 Important Rules for Beginners
+
+- Always use **4 spaces** for indentation
+- Do not mix **tabs and spaces**
+- Be consistent in your formatting
+
+Most code editors handle indentation automatically.
+
+---
+
+## ❌ Common Beginner Mistakes
+
+These are very common and normal:
+- Forgetting to indent after `if`, `elif`, `else`, `for`, `while`
+- Mixing tabs and spaces
+- Removing indentation by mistake
+
+Errors related to indentation are part of learning Python.
+
+---
+
+## 🧠 Learning Tip
+
+If your program shows an indentation error:
+- check spacing
+- check alignment
+- don’t panic
+
+Indentation errors are easy to fix once you understand the rule.
+
 ## 🖥️ Python Works on Different Operating Systems
 
 Python is **cross-platform**.
