@@ -210,4 +210,9 @@ For more information or questions, you can contact the owner:
 
 ---
 
-© 2026 **Roaring Moon XtraFine (Aryan)**. All rights reserved.
+© 2026 XtraFine (XF). All rights reserved.
+
+Owned by Roaring Moon  
+Developed by Aryan  
+Published under XtraFine standards
+
