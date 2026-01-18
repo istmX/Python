@@ -136,11 +136,13 @@ Topics include:
 - `while` loops
 - `range()` variations
 - repetition logic
+- loop control statements (`break`, `continue`)
 - beginner-friendly loop-based projects
 
 Projects:
 - Number guessing game
 - Multiplication table generator
+
 
 ---
 
