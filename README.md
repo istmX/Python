@@ -180,14 +180,14 @@ This project demonstrates how individual concepts come together to form a real p
 Make sure Python is installed on your system.
 
 Run any file using:
-```bash
+```
 python filename.py
 
 
 Example:
 
 python main.py
-
+```
 
 ⚠️ Note:
 Some programs (such as turtle-based or GUI programs) require running Python on a local machine with a graphical interface and may not work in online or headless environments.
