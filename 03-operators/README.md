@@ -1,4 +1,4 @@
-# Python Operators
+# Python Operators ⚙️
 
 This folder introduces operators used to perform operations and make decisions in Python.
 
@@ -59,10 +59,8 @@ They help answer questions like:
 
 The `and` operator returns `True` only if **both conditions are true**.
 
-Example explanation:
-> If age is greater than 13 AND less than 18, then the user is a teenager.
-
-This operator is useful when multiple conditions must be satisfied.
+Example idea:
+> Both numbers are positive AND greater than zero.
 
 ---
 
@@ -70,31 +68,17 @@ This operator is useful when multiple conditions must be satisfied.
 
 The `or` operator returns `True` if **at least one condition is true**.
 
-Example explanation:
-> If the day is Saturday OR Sunday, then it is a weekend.
-
-This operator is useful when any one condition is enough.
-
----
-
-## 🧠 Why Logical Operators Were Introduced Later
-
-In earlier projects, logical operators were avoided to keep logic simple.
-
-Now that basic conditions are understood, logical operators:
-- make code cleaner
-- reduce repetition
-- improve readability
-
-This shows how programs can be improved step by step.
+Example idea:
+> A number is negative OR zero.
 
 ---
 
 ## 📂 Files in This Folder
 
-- `arithmetic.py` → math operations
-- `comparison.py` → value comparisons
-- `logical_operators.py` → combining conditions using `and` and `or`
+- `operator-arithmetic.py` → math operations  
+- `operator-comparison.py` → value comparisons  
+- `operator-logical.py` → combining conditions using `and` and `or`  
+- `mini_project.py` → using all operators together in one program  
 
 ---
 
@@ -112,11 +96,30 @@ Original and trusted resources:
 
 ## 🧠 Learning Tip
 
-Logical operators are powerful but should be used carefully.
+Operators are not difficult by themselves.
 
-Always aim for:
-- clarity
-- readability
-- simple logic
+The real power comes from **combining them slowly and clearly**.
 
-Understanding `and` and `or` will help you write better conditions and real-world programs.
+Once operators are clear:
+- conditions become easy
+- logic feels natural
+- programs start making sense
+
+
+
+## 📬 Contact
+
+For more information or questions, you can contact the owner:
+
+📧 Email: roaringmoon07@gmail.com  
+📸 Instagram: aryan._xf
+
+---
+
+© 2026 XtraFine (XF). All rights reserved.
+
+XtraFine — Publisher  
+Roaring Moon — Repository Owner  
+Aryan — Developer & Maintainer
+
+

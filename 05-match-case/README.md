@@ -1,28 +1,64 @@
-# Match Case Statements (Python 3.10+)
+# Match-Case Statements (Python 3.10+) 🔀
 
-This folder introduces the match-case statement used for pattern matching.
-It provides a cleaner alternative to long if-elif chains in some situations.
+This folder introduces the **match-case statement** in Python.
+
+`match-case` is used for **pattern matching** and works like a cleaner
+alternative to long `if-elif-else` chains in certain situations.
+
+---
+
+## 🧠 What Is match-case?
+
+The `match-case` statement:
+- checks a value
+- compares it with multiple patterns
+- runs the matching block
+
+It is best suited for:
+- menu-based programs
+- user choices
+- fixed options
 
 ---
 
 ## 📘 What You Will Learn
 
 - Basic match-case syntax
-- Matching multiple values
-- Menu-driven programs
-- Cleaner conditional logic
+- Matching single and multiple values
+- Handling user choices
+- Writing cleaner conditional logic
 
 ---
 
-## 📁 Files in This Folder
+## 📂 Files in This Folder
 
-- `01-basic-match.py`
-- `02-multiple-values.py`
-- `03-user-choice.py`
-- `04-calculator.py`
-- `05-weekday.py`
-- `06-auth-system.py`
-- `07-mini_project.py`
+- `01-basic-match.py`  
+  Basic match-case syntax  
+
+- `02-multiple-values.py`  
+  Matching more than one value in a case  
+
+- `03-user-choice.py`  
+  Handling user input choices  
+
+- `04-calculator.py`  
+  Simple calculator using match-case  
+
+- `05-weekday.py`  
+  Matching days of the week  
+
+- `06-auth-system.py`  
+  Simple authentication logic  
+
+- `07-mini_project.py`  
+  Menu-driven mini project  
+
+---
+
+## ▶️ Requirements
+
+- Python **3.10 or above**
+- Older Python versions will NOT support match-case
 
 ---
 
@@ -33,16 +69,30 @@ It provides a cleaner alternative to long if-elif chains in some situations.
 
 ---
 
-## ▶️ How to Use
+## 🧠 Learning Tip
 
-Make sure you are using Python 3.10 or above.
+Use `match-case` when:
+- options are fixed
+- logic becomes repetitive with `if-elif`
 
-Run files using:
-python filename.py
+Do NOT replace every `if-else` with match-case.
+Use it where it makes code **cleaner and readable**.
 
+
+
+## 📬 Contact
+
+For more information or questions, you can contact the owner:
+
+📧 Email: roaringmoon07@gmail.com  
+📸 Instagram: aryan._xf
 
 ---
 
-## 📌 Note
+© 2026 XtraFine (XF). All rights reserved.
 
-Match-case improves readability but does not replace if-else in all cases.
+XtraFine — Publisher  
+Roaring Moon — Repository Owner  
+Aryan — Developer & Maintainer
+
+

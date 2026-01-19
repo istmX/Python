@@ -10,5 +10,7 @@ elif marks >= 50:
 else:
     grade = "Fail"
 
-print(name)
-print(grade)
+print("\n--- Result ---")
+print("Student Name:", name)
+print("Marks:", marks)
+print("Grade:", grade)
