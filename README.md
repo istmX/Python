@@ -35,7 +35,7 @@ Each folder represents a stage in learning Python and contains:
 Current structure:
 00-python/
 01-basics/
-02-data-types/
+02-datatypes/
 03-operators/
 04-conditions/
 05-match-case/
@@ -72,6 +72,7 @@ Topics include:
 - Strings
 - Escape sequence characters
 - Important string methods
+- Type conversion basics
 
 Projects:
 - Simple Profile Creator (uses strings and escape sequences)
@@ -84,35 +85,45 @@ This folder introduces different kinds of data used in Python.
 Topics include:
 - Numbers
 - Strings
+- Boolean values
+- Type checking
 - Common operations on data
 - Understanding how data is stored and used
+
+Projects:
+- Beginner-friendly mini project combining strings, numbers, and booleans
 
 ---
 
 ### ✅ 03 – Operators
-This folder explains how Python performs operations and makes decisions.
+This folder explains how Python performs operations and builds logic.
 
 Topics include:
 - Arithmetic operators
 - Comparison operators
 - Logical operators (`and`, `or`)
-- How operators are used inside conditions
+- How operators produce boolean values
+- Preparing logic for conditions
 
-Official Python documentation links are included for reference.
+Projects:
+- Mini project using arithmetic, comparison, and logical operators together
 
 ---
 
 ### ✅ 04 – Conditions
-This folder introduces decision-making in Python.
+This folder introduces **decision-making** in Python.
 
 Topics include:
 - `if`
 - `if-else`
 - `elif`
-- nested conditions
-- logical thinking
-- shorthand conditions
-- decision-based real-world programs
+- Nested conditions
+- Logical thinking
+- Shorthand conditions
+- Decision-based real-world programs
+
+Projects:
+- Student grade evaluation system
 
 ---
 
@@ -121,10 +132,13 @@ This folder introduces modern decision handling in Python.
 
 Topics include:
 - Basic `match-case` syntax
-- Multiple value matching
+- Matching multiple values
 - Menu-driven programs
 - Calculator logic
 - Role and access-based logic
+
+Projects:
+- Menu-based and choice-driven programs
 
 ---
 
@@ -135,14 +149,13 @@ Topics include:
 - `for` loops
 - `while` loops
 - `range()` variations
-- repetition logic
-- loop control statements (`break`, `continue`)
-- beginner-friendly loop-based projects
+- Repetition logic
+- Loop control statements (`break`, `continue`)
+- Beginner-friendly loop-based projects
 
 Projects:
 - Number guessing game
 - Multiplication table generator
-
 
 ---
 
@@ -152,8 +165,9 @@ This folder contains the **first complete Python project**.
 The project combines:
 - Input and output
 - Variables and strings
-- Conditions
+- Data types
 - Operators
+- Conditions
 - Loops
 - Menu-driven logic
 
@@ -166,56 +180,62 @@ This project demonstrates how individual concepts come together to form a real p
 Make sure Python is installed on your system.
 
 Run any file using:
-puthon filename.py
- Example:
- python main.py
+```bash
+python filename.py
 
- 
-⚠️ Note:  
-Some projects (such as turtle-based programs) require running Python on a **local machine with a graphical interface** and may not work in online or headless environments.
 
----
+Example:
 
-## 🚀 Long-Term Vision
+python main.py
+
+
+⚠️ Note:
+Some programs (such as turtle-based or GUI programs) require running Python on a local machine with a graphical interface and may not work in online or headless environments.
+
+🚀 Long-Term Vision
 
 This repository will continue to grow as more Python concepts are learned and applied.
 
 Planned future additions include:
-- Functions
-- Data structures
-- Object-Oriented Programming (OOP)
-- File handling
-- Modules and packages
-- Backend development with Django
-- Machine Learning projects
-- Complete real-world Python applications
 
-Early code may be simple, while later code will be more advanced.  
+Functions
+
+Data structures
+
+Object-Oriented Programming (OOP)
+
+File handling
+
+Modules and packages
+
+Backend development with Django
+
+Machine Learning projects
+
+Complete real-world Python applications
+
+Early code may be simple, while later code will be more advanced.
 This progression is intentional and reflects real learning.
 
----
-
-## 📌 Status
+📌 Status
 
 This repository is actively maintained.
 
-The README, folder structure, and content **will keep changing** as new topics and projects are added.
+The README, folder structure, and content will keep changing as new topics and projects are added.
 
----
-
-## 📬 Contact
+📬 Contact
 
 For more information or questions, you can contact the owner:
 
-📧 Email: roaringmoon07@gmail.com  
-📸 Instagram: aryan._xf
+📧 Email: roaringmoon07@gmail.com
 
----
+📸 Instagram: aryan._xf
 
 © 2026 XtraFine (XF). All rights reserved.
 
-XtraFine — Publisher  
-Roaring Moon — Repository Owner  
+XtraFine — Publisher
+Roaring Moon — Repository Owner
 Aryan — Developer & Maintainer
+
 
 
