@@ -41,6 +41,7 @@ Current structure:
 05-match-case/
 06-loops/
 07-first-project/
+08-functions/
 
 
 Folders are numbered intentionally to guide the learning order.
@@ -175,20 +176,37 @@ This project demonstrates how individual concepts come together to form a real p
 
 ---
 
+### ✅ 08 – Functions
+This folder introduces **functions in Python**.
+
+Functions help:
+- organize code
+- avoid repetition
+- make programs cleaner and reusable
+
+Topics include:
+- What functions are and why they are used
+- Defining and calling functions
+- Functions with parameters
+- Multiple parameters
+- Using input inside functions
+- The `return` keyword
+- Writing small programs using functions
+
+Projects:
+- Beginner-friendly mini project using functions
+
+---
+
 ## ▶️ How to Run the Code
 
 Make sure Python is installed on your system.
 
 Run any file using:
-```
+```bash
 python filename.py
 
-
-Example:
-
-python main.py
 ```
-
 ⚠️ Note:
 Some programs (such as turtle-based or GUI programs) require running Python on a local machine with a graphical interface and may not work in online or headless environments.
 
@@ -198,7 +216,7 @@ This repository will continue to grow as more Python concepts are learned and ap
 
 Planned future additions include:
 
-Functions
+Tuples
 
 Data structures
 
@@ -236,6 +254,5 @@ For more information or questions, you can contact the owner:
 XtraFine — Publisher
 Roaring Moon — Repository Owner
 Aryan — Developer & Maintainer
-
 
 
