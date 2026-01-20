@@ -47,6 +47,7 @@ That’s a function.
 
 ```python
 def function_name():
+```
     code inside function
 Let’s break this slowly 👇
 
